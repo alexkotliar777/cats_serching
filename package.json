@@ -5,7 +5,7 @@
   "homepage": "https://alexkotliar777.github.io/cats_serching",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /cats_serching/"
   },
   "repository": {
     "type": "git",
